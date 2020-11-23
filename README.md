@@ -2,8 +2,8 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chintan9" alt="chintan9" /> </p>
+<img src="https://github-profile-trophy.vercel.app/?username=chintan9" alt="chintan9" />
 
-### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
