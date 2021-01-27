@@ -18,3 +18,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chintan9&layout=compact" alt="chintan9" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chintan9&show_icons=true" alt="chintan9" /></p>
+
+![Metrics](https://metrics.lecoq.io/chintan9?template=classic&activity=1&followup=1&isocalendar=1&languages=1&isocalendar.duration=full-year&activity.limit=5&activity.days=14&activity.filter=all&config.timezone=America%2FChicago&config.animated=true)
